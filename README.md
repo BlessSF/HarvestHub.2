@@ -1,1 +1,1 @@
-# HarvestHub.2
+# HarvestHub
